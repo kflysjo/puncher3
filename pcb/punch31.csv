@@ -1,0 +1,32 @@
+Reference; Quantity;; Value; Footprint; Datasheet
+BT1 ;1;;Battery;Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal;~
+C1 C6 C14 C17 C13 C23 C25;7;;0.1uF;Capacitor_SMD:C_0402_1005Metric;~
+C11 ;1;;1nF;Capacitor_SMD:C_0402_1005Metric;~
+C12 C8;2;;10nF;Capacitor_SMD:C_0402_1005Metric;~
+C15 C16;2;;2.2nF;Capacitor_SMD:C_0402_1005Metric;~
+C18 ;1;;4.7pF;Capacitor_SMD:C_0402_1005Metric;~
+C19 C20 ;2;;18pF;Capacitor_SMD:C_0402_1005Metric;~
+C2 ;1;;4.7uF;Capacitor_SMD:C_0402_1005Metric;~
+C21 ;1;;1.5pF;Capacitor_SMD:C_0402_1005Metric;~
+C22 ;1;;1.0pF;Capacitor_SMD:C_0402_1005Metric;~
+C26 C24 ;2;;1uF;Capacitor_SMD:CP_Elec_4x4.5;~
+C4 C3 ;2;;9 pF;Capacitor_SMD:C_0402_1005Metric;~
+C5 C10 ;2;;10uF;Capacitor_SMD:C_0402_1005Metric;~
+C7 ;1;;470pF;Capacitor_SMD:C_0402_1005Metric;~
+C9 ;1;;33nF;Capacitor_SMD:C_0402_1005Metric;~
+D1 ;1;;LED;Diode_SMD:D_0402_1005Metric;~
+J1 ;1;;Conn_Coaxial;PCB_antenna:2500_MHz_Theta3; ~
+J2 ;1;;Conn_01x06_Female;Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;~
+L1 ;1;;12nH;Inductor_SMD:L_0402_1005Metric;~
+L2 ;1;;2.3nH;Inductor_SMD:L_0402_1005Metric;~
+L3 ;1;;7.9nH;Inductor_SMD:L_0402_1005Metric;~
+R3 R5 R1 R2 ;4;;10k;Resistor_SMD:R_0402_1005Metric;~
+R4 R7 ;2;;4,7k;Resistor_SMD:R_0402_1005Metric;~
+R6 ;1;;22k;Resistor_SMD:R_0402_1005Metric;~
+R8 ;1;;1M;Resistor_SMD:R_0402_1005Metric;~
+U1 ;1;;ATmega328PB-AU;Package_QFP:TQFP-32_7x7mm_P0.8mm;http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf
+U2 ;1;;MIC5205-3.3YM5;Package_TO_SOT_SMD:SOT-23-5;http://ww1.microchip.com/downloads/en/DeviceDoc/20005785A.pdf
+U3 ;1;;nRF24L01P;Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm;http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf
+U4 ;1;;MPU-6050;Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm;https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf
+Y1 ;1;;8MHz;OC:ECS-80-18-33-JGN-TR;~
+Y2 ;1;;16 MHz;OC:ECS1637;~

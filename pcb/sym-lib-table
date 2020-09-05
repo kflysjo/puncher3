@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name punch31-rescue)(type Legacy)(uri ${KIPRJMOD}/punch31-rescue.lib)(options "")(descr ""))
+)
